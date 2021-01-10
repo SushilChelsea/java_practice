@@ -1,0 +1,7 @@
+1|Sushil|Pun|Nepalgunj
+2|Sulav|Acharya|Nepalgunj
+3|Saxxam|Shrestha|Kathmandu
+4|Sulav|Acharya|Nepalgunj
+5|Dipen|Hamal|Chitwan
+6|Ksheetij|Paudel|Kathmandu
+7|Uday|Shrestha|Chitwan
